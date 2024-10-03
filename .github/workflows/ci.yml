@@ -36,4 +36,4 @@ jobs:
 
       
       - name: Run tests
-        run: npx mocha
+        run: npm test
